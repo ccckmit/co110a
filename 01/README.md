@@ -1,5 +1,11 @@
 # 第一章習題與解說
 
+## Not
+
+...
+
+## And
+
 ```hdl
 /**
  * And gate: 
@@ -17,3 +23,7 @@ CHIP And {
     Not(in=ab, out=out);
 }
 ```
+
+
+![](./img/And.jpg)
+
